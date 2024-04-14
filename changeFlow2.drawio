@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2024-04-14T13:53:39.501Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="SeuuramCYtOO8EI-kG6H" version="24.2.5" type="device">
+  <diagram name="第 1 页" id="7SZsN18Ah_jdObdDjAO-">
+    <mxGraphModel dx="3676" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-28" value="&lt;b&gt;Device&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=top;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="195" width="240" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-27" value="&lt;b&gt;Azure Release Pipeline&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=top;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1545" y="195" width="265" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-21" value="&lt;b&gt;PR Review&lt;/b&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=top;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="-1731.13" y="195" width="195.25" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-2" value="Operation&lt;br&gt;( Read-Only Account )" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1450" y="244.25" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.script_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-1654" y="258.88" width="37.14" height="47.25" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Pipelines.svg;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="270" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-9" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.user;" vertex="1" parent="1">
+          <mxGeometry x="-1670" y="310" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-10" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.user;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-19" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
+          <mxGeometry x="-1157.75" y="270" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-34" value="Change&lt;br&gt;( Admin Account )" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1450" y="300" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-35" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.server;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="270" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-36" value="DEV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1247.75" y="290" width="80.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-37" value="PROD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1165.5" y="290" width="80.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDzt4kRQtpG-h_S7fNJy-39" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Manager approval for PROD env&lt;/span&gt;&lt;/div&gt;" style="fillColor=#f8cecc;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#b85450;verticalAlign=top;align=left;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.user;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
